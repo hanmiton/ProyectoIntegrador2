@@ -2,8 +2,6 @@
   var app = angular.module('ingedex', []);
 
   app.controller('IngenieroController', function () {
-    this.tab = 1;
-
     this.ingeniero = {
       id: "001",
       name: "Nombre001",
@@ -23,10 +21,17 @@
       },
       evolution: [ "Ingeniero", "Masterado", "Doctorado" ]
     };
+
+  });
+
+  app.controller('TabsController', function () {
+    this.tab = 1;
+
     this.selectTab = function (tab) {
       this.tab = tab;
     };
-    
+
   });
+
 
 })();
