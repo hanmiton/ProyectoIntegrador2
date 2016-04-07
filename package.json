@@ -1,12 +1,12 @@
 {
-  "name": "pokedex",
+  "name": "proyectoIntegrador",
   "version": "1.0.0",
   "private": true,
-  "description": "A Pokedex built in Angular.js",
+  "description": "A proyectoIntegrador built in Angular.js",
   "scripts": {
     "start": "grunt"
   },
-  "author": "Julian Duque <julianduquej@gmail.com>",
+  "author": "Hanmilton Berrezueta <hanmilton_12@outlook.com>",
   "license": "MIT",
   "devDependencies": {
     "grunt": "^0.4.5",
