@@ -150,7 +150,7 @@
                     <label>
                       <input ng-model="sltsCtrl.solicitud.email" ng-disabled="sltsCtrl.solicitud.anonymous" type="email" placeholder="Ingresa tu direccion email" class="form-control" ng-required="!sltsCtrl.solicitud.anonymous">
                       <label>
-                        <input ng-model="sltsCtrl.solicitud.anonymous"ng-change="sltsCtrl.anonymousChanged()"type="checkbox">
+                        <input ng-model="sltsCtrl.solicitud.anonymous"ng-change="sltsCtrl.anonymousChanged()"   type="checkbox">
                         Anonymous
                     </label>
                   </div>
@@ -176,7 +176,6 @@
                       <button type="submit" class="btn btn-lg">Solicitud</button>
                     </div>
                   </div>
-                    <h2>Valid: {{solicitudesForm.$valid}}<h2>
                 </div>
               </form>
               <blockquote>
