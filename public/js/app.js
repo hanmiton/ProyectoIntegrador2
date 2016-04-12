@@ -62,4 +62,11 @@
     };
   });
 
+  app.directive('ingenieroData', function () {
+    return {
+      restrict: 'E',
+      templateUrl: 'partials/ingeniero-data.html'
+    }
+  });
+
 })();
