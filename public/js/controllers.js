@@ -1,6 +1,10 @@
 (function () {
 
   angular.module('ingedex.controllers', [])
+    .controller('IngedexController', ['$scope', '$http', function ($scope, $http) {
+
+    }])
+
     .controller('IngenieroController', function () {
       this.ingeniero = {
         id: "001",
