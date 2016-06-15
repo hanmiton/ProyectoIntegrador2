@@ -55,13 +55,13 @@
       }
 
       function saveSolicitud(ingeniero, solicitud) {
-        var solicitudes = getsolicitudes(ingeniero);
+        var solicitudes = getSolicitudes(ingeniero);
 
         solicitudes.push(solicitud);
         localStorage.setItem(ingeniero, JSON.stringify(solicitudes));
       }
 
-      function getsolicitudes(ingeniero) {
+      function getSolicitudes(ingeniero) {
         var solicitudes = localStorage.getItem(ingeniero);
 
         if (!solicitudes) {
@@ -79,7 +79,7 @@
         byName: byName,
         byType: byType,
         saveSolicitud: saveSolicitud,
-        getSolicituds: getSolicituds
+        getSolicitudes: getSolicitudes
       };
 
     }]);
