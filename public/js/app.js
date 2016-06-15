@@ -2,6 +2,7 @@
 
   var app = angular.module('ingedex', [
     'ngRoute',
+    'angular-md5',
     'ingedex.controllers',
     'ingedex.directives',
     'ingedex.filters',

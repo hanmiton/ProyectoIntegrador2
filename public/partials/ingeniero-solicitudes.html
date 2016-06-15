@@ -63,8 +63,14 @@
       <p>{{solicitud.ci}}</p> 
       <footer>
         Solicitud por 
+         <img ng-if="!solicitud.anonymous" width="48px" class="img-circle" src="http://gravatar.com/avatar/{{comment.email | gravatar}}">
         <a ng-if="!solicitud.anonymous" href="mailto:{{solicitud.email}}">{{solicitud.email}}</a> 
-        <em ng-if="solicitud.anonymous">Anonymous</em> en <span>{{solicitud.date}}</span>
+        <em ng-if="solicitud.anonymous">Anonymous</em> en <span>{{solicitud.date}}
+        </span>
+        commented on <span>{{comment.date | date : 'medium'}}
+        </span>
+        
+
       </footer>
     </blockquote>
     <blockquote ng-repeat="solicitud in solicitudes  | orderBy : '-date'">
