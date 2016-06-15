@@ -12,7 +12,7 @@
 
     $routeProvider
       .when('/', {
-        templateUrl: 'views/ingeniero.html',
+        templateUrl: 'views/ingedex.html',
         controller: 'IngedexController'
       })
       .when('/ingeniero/:id', {
