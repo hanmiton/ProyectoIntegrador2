@@ -67,7 +67,7 @@
         <em ng-if="solicitud.anonymous">Anonymous</em> en <span>{{solicitud.date}}</span>
       </footer>
     </blockquote>
-    <blockquote ng-repeat="solicitud in solicitudes">
+    <blockquote ng-repeat="solicitud in solicitudes  | orderBy : '-date'">
       <p>Quito, {{solicitud.date | date : 'medium'}}</p>
       <p>{{solicitud.titulo}}</p>
       <p>{{solicitud.para}}</p>
