@@ -4,8 +4,8 @@
     'ngRoute',
     'ingedex.controllers',
     'ingedex.directives',
-    'ingedex.filters'
-
+    'ingedex.filters',
+    'ingedex.services'
     ]);
 
     app.config(['$routeProvider', function ($routeProvider) {
