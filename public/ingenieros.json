@@ -2,7 +2,7 @@
   {
     "id": "001",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo1",
       "Tipo2"
@@ -31,7 +31,7 @@
   {
     "id": "002",
     "name": "Ingeniero002",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo1",
       "Tipo2"
@@ -60,7 +60,7 @@
   {
     "id": "003",
     "name": "Ingeniero003",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo1",
       "Tipo2"
@@ -89,7 +89,7 @@
   {
     "id": "004",
     "name": "Ingeniero004",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo3"
     ],
@@ -117,7 +117,7 @@
   {
     "id": "005",
     "name": "Ingeniero005",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo3"
     ],
@@ -145,7 +145,7 @@
   {
     "id": "006",
     "name": "Ingeniero006",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo3",
       "Tipo4"
@@ -174,7 +174,7 @@
   {
     "id": "007",
     "name": "Ingeniero007",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo5"
     ],
@@ -202,7 +202,7 @@
   {
     "id": "008",
     "name": "Ingeniero008",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo5"
     ],
@@ -230,7 +230,7 @@
   {
     "id": "009",
     "name": "Ingeniero009",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo5"
     ],
@@ -258,7 +258,7 @@
   {
     "id": "010",
     "name": "Ingeniero010",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo6"
     ],
@@ -286,7 +286,7 @@
   {
     "id": "011",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo6"
     ],
@@ -313,7 +313,7 @@
   {
     "id": "012",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo6",
       "Tipo4"
@@ -342,7 +342,7 @@
   {
     "id": "013",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo6",
       "Tipo2"
@@ -371,7 +371,7 @@
   {
     "id": "014",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo6",
       "Tipo2"
@@ -399,7 +399,7 @@
   {
     "id": "015",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo6",
       "Tipo2"
@@ -428,7 +428,7 @@
   {
     "id": "016",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Normal",
       "Tipo4"
@@ -458,7 +458,7 @@
   {
     "id": "017",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Normal",
       "Tipo4"
@@ -488,7 +488,7 @@
   {
     "id": "018",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Normal",
       "Tipo4"
@@ -518,7 +518,7 @@
   {
     "id": "019",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Normal"
     ],
@@ -546,7 +546,7 @@
   {
     "id": "020",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Normal"
     ],
@@ -574,7 +574,7 @@
   {
     "id": "021",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Normal",
       "Tipo4"
@@ -602,7 +602,7 @@
   {
     "id": "022",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Normal",
       "Tipo4"
@@ -630,7 +630,7 @@
   {
     "id": "023",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo2"
     ],
@@ -658,7 +658,7 @@
   {
     "id": "024",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo2"
     ],
@@ -686,7 +686,7 @@
   {
     "id": "025",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo7"
     ],
@@ -714,7 +714,7 @@
   {
     "id": "026",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo7"
     ],
@@ -742,7 +742,7 @@
   {
     "id": "027",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo8"
     ],
@@ -769,7 +769,7 @@
   {
     "id": "028",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo8"
     ],
@@ -796,7 +796,7 @@
   {
     "id": "029",
     "name": "Nidoran♀",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo2"
     ],
@@ -825,7 +825,7 @@
   {
     "id": "030",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo2"
     ],
@@ -854,7 +854,7 @@
   {
     "id": "031",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo2",
       "Tipo8"
@@ -884,7 +884,7 @@
   {
     "id": "032",
     "name": "Nidoran♂",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo2"
     ],
@@ -913,7 +913,7 @@
   {
     "id": "033",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo2"
     ],
@@ -942,7 +942,7 @@
   {
     "id": "034",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo2",
       "Tipo8"
@@ -972,7 +972,7 @@
   {
     "id": "035",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo9"
     ],
@@ -1001,7 +1001,7 @@
   {
     "id": "036",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo9"
     ],
@@ -1030,7 +1030,7 @@
   {
     "id": "037",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo3"
     ],
@@ -1057,7 +1057,7 @@
   {
     "id": "038",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo3"
     ],
@@ -1084,7 +1084,7 @@
   {
     "id": "039",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Normal",
       "Tipo9"
@@ -1114,7 +1114,7 @@
   {
     "id": "040",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Normal",
       "Tipo9"
@@ -1144,7 +1144,7 @@
   {
     "id": "041",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo2",
       "Tipo4"
@@ -1173,7 +1173,7 @@
   {
     "id": "042",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo2",
       "Tipo4"
@@ -1202,7 +1202,7 @@
   {
     "id": "043",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo1",
       "Tipo2"
@@ -1232,7 +1232,7 @@
   {
     "id": "044",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo1",
       "Tipo2"
@@ -1262,7 +1262,7 @@
   {
     "id": "045",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo1",
       "Tipo2"
@@ -1292,7 +1292,7 @@
   {
     "id": "046",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo6",
       "Tipo1"
@@ -1321,7 +1321,7 @@
   {
     "id": "047",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo6",
       "Tipo1"
@@ -1350,7 +1350,7 @@
   {
     "id": "048",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo6",
       "Tipo2"
@@ -1379,7 +1379,7 @@
   {
     "id": "049",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo6",
       "Tipo2"
@@ -1408,7 +1408,7 @@
   {
     "id": "050",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo8"
     ],
@@ -1436,7 +1436,7 @@
   {
     "id": "051",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo8"
     ],
@@ -1464,7 +1464,7 @@
   {
     "id": "052",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Normal"
     ],
@@ -1492,7 +1492,7 @@
   {
     "id": "053",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Normal"
     ],
@@ -1520,7 +1520,7 @@
   {
     "id": "054",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo5"
     ],
@@ -1548,7 +1548,7 @@
   {
     "id": "055",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo5"
     ],
@@ -1576,7 +1576,7 @@
   {
     "id": "056",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo10"
     ],
@@ -1604,7 +1604,7 @@
   {
     "id": "057",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo10"
     ],
@@ -1632,7 +1632,7 @@
   {
     "id": "058",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo3"
     ],
@@ -1660,7 +1660,7 @@
   {
     "id": "059",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo3"
     ],
@@ -1688,7 +1688,7 @@
   {
     "id": "060",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo5"
     ],
@@ -1718,7 +1718,7 @@
   {
     "id": "061",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo5"
     ],
@@ -1748,7 +1748,7 @@
   {
     "id": "062",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo5",
       "Tipo10"
@@ -1779,7 +1779,7 @@
   {
     "id": "063",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo11"
     ],
@@ -1808,7 +1808,7 @@
   {
     "id": "064",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo11"
     ],
@@ -1837,7 +1837,7 @@
   {
     "id": "065",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo11"
     ],
@@ -1866,7 +1866,7 @@
   {
     "id": "066",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo10"
     ],
@@ -1895,7 +1895,7 @@
   {
     "id": "067",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo10"
     ],
@@ -1924,7 +1924,7 @@
   {
     "id": "068",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo10"
     ],
@@ -1953,7 +1953,7 @@
   {
     "id": "069",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo1",
       "Tipo2"
@@ -1982,7 +1982,7 @@
   {
     "id": "070",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo1",
       "Tipo2"
@@ -2011,7 +2011,7 @@
   {
     "id": "071",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo1",
       "Tipo2"
@@ -2040,7 +2040,7 @@
   {
     "id": "072",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo5",
       "Tipo2"
@@ -2069,7 +2069,7 @@
   {
     "id": "073",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo5",
       "Tipo2"
@@ -2098,7 +2098,7 @@
   {
     "id": "074",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo12",
       "Tipo8"
@@ -2128,7 +2128,7 @@
   {
     "id": "075",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo12",
       "Tipo8"
@@ -2158,7 +2158,7 @@
   {
     "id": "076",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo12",
       "Tipo8"
@@ -2188,7 +2188,7 @@
   {
     "id": "077",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo3"
     ],
@@ -2216,7 +2216,7 @@
   {
     "id": "078",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo3"
     ],
@@ -2244,7 +2244,7 @@
   {
     "id": "079",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo5",
       "Tipo11"
@@ -2274,7 +2274,7 @@
   {
     "id": "080",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo5",
       "Tipo11"
@@ -2304,7 +2304,7 @@
   {
     "id": "081",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo7",
       "Tipo13"
@@ -2334,7 +2334,7 @@
   {
     "id": "082",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo7",
       "Tipo13"
@@ -2364,7 +2364,7 @@
   {
     "id": "083",
     "name": "Farfetch'd",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Normal",
       "Tipo4"
@@ -2390,7 +2390,7 @@
   {
     "id": "084",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Normal",
       "Tipo4"
@@ -2419,7 +2419,7 @@
   {
     "id": "085",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Normal",
       "Tipo4"
@@ -2448,7 +2448,7 @@
   {
     "id": "086",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo5"
     ],
@@ -2476,7 +2476,7 @@
   {
     "id": "087",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo5",
       "Tipo14"
@@ -2505,7 +2505,7 @@
   {
     "id": "088",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo2"
     ],
@@ -2533,7 +2533,7 @@
   {
     "id": "089",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo2"
     ],
@@ -2561,7 +2561,7 @@
   {
     "id": "090",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo5"
     ],
@@ -2589,7 +2589,7 @@
   {
     "id": "091",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo5",
       "Tipo14"
@@ -2618,7 +2618,7 @@
   {
     "id": "092",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo15",
       "Tipo2"
@@ -2646,7 +2646,7 @@
   {
     "id": "093",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo15",
       "Tipo2"
@@ -2674,7 +2674,7 @@
   {
     "id": "094",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo15",
       "Tipo2"
@@ -2702,7 +2702,7 @@
   {
     "id": "095",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo12",
       "Tipo8"
@@ -2731,7 +2731,7 @@
   {
     "id": "096",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo11"
     ],
@@ -2759,7 +2759,7 @@
   {
     "id": "097",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo11"
     ],
@@ -2787,7 +2787,7 @@
   {
     "id": "098",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo5"
     ],
@@ -2815,7 +2815,7 @@
   {
     "id": "099",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo5"
     ],
@@ -2843,7 +2843,7 @@
   {
     "id": "100",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo7"
     ],
@@ -2871,7 +2871,7 @@
   {
     "id": "101",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo7"
     ],
@@ -2899,7 +2899,7 @@
   {
     "id": "102",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo1",
       "Tipo11"
@@ -2927,7 +2927,7 @@
   {
     "id": "103",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo1",
       "Tipo11"
@@ -2955,7 +2955,7 @@
   {
     "id": "104",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo8"
     ],
@@ -2983,7 +2983,7 @@
   {
     "id": "105",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo8"
     ],
@@ -3011,7 +3011,7 @@
   {
     "id": "106",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo10"
     ],
@@ -3041,7 +3041,7 @@
   {
     "id": "107",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo10"
     ],
@@ -3071,7 +3071,7 @@
   {
     "id": "108",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Normal"
     ],
@@ -3099,7 +3099,7 @@
   {
     "id": "109",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo2"
     ],
@@ -3125,7 +3125,7 @@
   {
     "id": "110",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo2"
     ],
@@ -3151,7 +3151,7 @@
   {
     "id": "111",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo8",
       "Tipo12"
@@ -3181,7 +3181,7 @@
   {
     "id": "112",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo8",
       "Tipo12"
@@ -3211,7 +3211,7 @@
   {
     "id": "113",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Normal"
     ],
@@ -3240,7 +3240,7 @@
   {
     "id": "114",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo1"
     ],
@@ -3268,7 +3268,7 @@
   {
     "id": "115",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Normal"
     ],
@@ -3293,7 +3293,7 @@
   {
     "id": "116",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo5"
     ],
@@ -3322,7 +3322,7 @@
   {
     "id": "117",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo5"
     ],
@@ -3351,7 +3351,7 @@
   {
     "id": "118",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo5"
     ],
@@ -3379,7 +3379,7 @@
   {
     "id": "119",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo5"
     ],
@@ -3407,7 +3407,7 @@
   {
     "id": "120",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo5"
     ],
@@ -3435,7 +3435,7 @@
   {
     "id": "121",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo5",
       "Tipo11"
@@ -3464,7 +3464,7 @@
   {
     "id": "122",
     "name": "Mr. Mime",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo11",
       "Tipo9"
@@ -3493,7 +3493,7 @@
   {
     "id": "123",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo6",
       "Tipo4"
@@ -3522,7 +3522,7 @@
   {
     "id": "124",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo14",
       "Tipo11"
@@ -3551,7 +3551,7 @@
   {
     "id": "125",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo7"
     ],
@@ -3579,7 +3579,7 @@
   {
     "id": "126",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo3"
     ],
@@ -3607,7 +3607,7 @@
   {
     "id": "127",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo6"
     ],
@@ -3632,7 +3632,7 @@
   {
     "id": "128",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Normal"
     ],
@@ -3657,7 +3657,7 @@
   {
     "id": "129",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo5"
     ],
@@ -3684,7 +3684,7 @@
   {
     "id": "130",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo5",
       "Tipo4"
@@ -3712,7 +3712,7 @@
   {
     "id": "131",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo5",
       "Tipo14"
@@ -3738,7 +3738,7 @@
   {
     "id": "132",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Normal"
     ],
@@ -3762,7 +3762,7 @@
   {
     "id": "133",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Normal"
     ],
@@ -3797,7 +3797,7 @@
   {
     "id": "134",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo5"
     ],
@@ -3831,7 +3831,7 @@
   {
     "id": "135",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo7"
     ],
@@ -3865,7 +3865,7 @@
   {
     "id": "136",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo3"
     ],
@@ -3899,7 +3899,7 @@
   {
     "id": "137",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Normal"
     ],
@@ -3928,7 +3928,7 @@
   {
     "id": "138",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo12",
       "Tipo5"
@@ -3957,7 +3957,7 @@
   {
     "id": "139",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo12",
       "Tipo5"
@@ -3986,7 +3986,7 @@
   {
     "id": "140",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo12",
       "Tipo5"
@@ -4015,7 +4015,7 @@
   {
     "id": "141",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo12",
       "Tipo5"
@@ -4044,7 +4044,7 @@
   {
     "id": "142",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo12",
       "Tipo4"
@@ -4070,7 +4070,7 @@
   {
     "id": "143",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Normal"
     ],
@@ -4098,7 +4098,7 @@
   {
     "id": "144",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo14",
       "Tipo4"
@@ -4123,7 +4123,7 @@
   {
     "id": "145",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo7",
       "Tipo4"
@@ -4148,7 +4148,7 @@
   {
     "id": "146",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo3",
       "Tipo4"
@@ -4173,7 +4173,7 @@
   {
     "id": "147",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo16"
     ],
@@ -4201,7 +4201,7 @@
   {
     "id": "148",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo16"
     ],
@@ -4229,7 +4229,7 @@
   {
     "id": "149",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo16",
       "Tipo4"
@@ -4258,7 +4258,7 @@
   {
     "id": "150",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo11"
     ],
@@ -4282,7 +4282,7 @@
   {
     "id": "151",
     "name": "Ingeniero001",
-    "ingenierias": "Ingenieria001",
+    "ingenieria": "Ingenieria001",
     "type": [
       "Tipo11"
     ],
