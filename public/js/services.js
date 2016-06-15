@@ -54,23 +54,23 @@
         return deferred.promise;
       }
 
-      function saveComment(ingeniero, solicitud) {
-        var solicituds = getsolicituds(ingeniero);
+      function saveSolicitud(ingeniero, solicitud) {
+        var solicitudes = getsolicitudes(ingeniero);
 
-        solicituds.push(solicitud);
-        localStorage.setItem(ingeniero, JSON.stringify(solicituds));
+        solicitudes.push(solicitud);
+        localStorage.setItem(ingeniero, JSON.stringify(solicitudes));
       }
 
-      function getsolicituds(ingeniero) {
-        var solicituds = localStorage.getItem(ingeniero);
+      function getsolicitudes(ingeniero) {
+        var solicitudes = localStorage.getItem(ingeniero);
 
-        if (!solicituds) {
-          solicituds = [];
+        if (!solicitudes) {
+          solicitudes = [];
         } else {
-          solicituds = JSON.parse(solicituds);
+          solicitudes = JSON.parse(solicitudes);
         }
 
-        return solicituds;
+        return solicitudes;
       }
 
 
@@ -78,8 +78,8 @@
         all: all,
         byName: byName,
         byType: byType,
-        saveComment: saveComment,
-        getComments: getComments
+        saveSolicitud: saveSolicitud,
+        getSolicituds: getSolicituds
       };
 
     }]);
