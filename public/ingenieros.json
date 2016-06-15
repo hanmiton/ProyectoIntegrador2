@@ -14,12 +14,12 @@
       "habilidad2"
     ],
     "stats": {
-      "hp": 45,
-      "attack": 49,
-      "defense": 49,
-      "sp.atk": 65,
-      "sp.def": 65,
-      "speed": 45,
+      "st1": 45,
+      "st2": 49,
+      "st3": 49,
+      "sp.st4": 65,
+      "sp.st5": 65,
+      "st6": 45,
       "total": 318
     },
     "evolution": [
@@ -43,12 +43,12 @@
       "habilidad2"
     ],
     "stats": {
-      "hp": 60,
-      "attack": 62,
-      "defense": 63,
-      "sp.atk": 80,
-      "sp.def": 80,
-      "speed": 60,
+      "st1": 60,
+      "st2": 62,
+      "st3": 63,
+      "sp.st4": 80,
+      "sp.st5": 80,
+      "st6": 60,
       "total": 405
     },
     "evolution": [
@@ -72,12 +72,12 @@
       "habilidad2"
     ],
     "stats": {
-      "hp": 80,
-      "attack": 82,
-      "defense": 83,
-      "sp.atk": 100,
-      "sp.def": 100,
-      "speed": 80,
+      "st1": 80,
+      "st2": 82,
+      "st3": 83,
+      "sp.st4": 100,
+      "sp.st5": 100,
+      "st6": 80,
       "total": 525
     },
     "evolution": [
@@ -100,12 +100,12 @@
       "habilidad4"
     ],
     "stats": {
-      "hp": 39,
-      "attack": 52,
-      "defense": 43,
-      "sp.atk": 60,
-      "sp.def": 50,
-      "speed": 65,
+      "st1": 39,
+      "st2": 52,
+      "st3": 43,
+      "sp.st4": 60,
+      "sp.st5": 50,
+      "st6": 65,
       "total": 309
     },
     "evolution": [
@@ -128,12 +128,12 @@
       "habilidad4"
     ],
     "stats": {
-      "hp": 58,
-      "attack": 64,
-      "defense": 58,
-      "sp.atk": 80,
-      "sp.def": 65,
-      "speed": 80,
+      "st1": 58,
+      "st2": 64,
+      "st3": 58,
+      "sp.st4": 80,
+      "sp.st5": 65,
+      "st6": 80,
       "total": 405
     },
     "evolution": [
@@ -157,12 +157,12 @@
       "habilidad4"
     ],
     "stats": {
-      "hp": 78,
-      "attack": 84,
-      "defense": 78,
-      "sp.atk": 109,
-      "sp.def": 85,
-      "speed": 100,
+      "st1": 78,
+      "st2": 84,
+      "st3": 78,
+      "sp.st4": 109,
+      "sp.st5": 85,
+      "st6": 100,
       "total": 534
     },
     "evolution": [
@@ -185,12 +185,12 @@
       "habilidad6"
     ],
     "stats": {
-      "hp": 44,
-      "attack": 48,
-      "defense": 65,
-      "sp.atk": 50,
-      "sp.def": 64,
-      "speed": 43,
+      "st1": 44,
+      "st2": 48,
+      "st3": 65,
+      "sp.st4": 50,
+      "sp.st5": 64,
+      "st6": 43,
       "total": 314
     },
     "evolution": [
@@ -213,12 +213,12 @@
       "habilidad6"
     ],
     "stats": {
-      "hp": 59,
-      "attack": 63,
-      "defense": 80,
-      "sp.atk": 65,
-      "sp.def": 80,
-      "speed": 58,
+      "st1": 59,
+      "st2": 63,
+      "st3": 80,
+      "sp.st4": 65,
+      "sp.st5": 80,
+      "st6": 58,
       "total": 405
     },
     "evolution": [
@@ -241,12 +241,12 @@
       "habilidad6"
     ],
     "stats": {
-      "hp": 79,
-      "attack": 83,
-      "defense": 100,
-      "sp.atk": 85,
-      "sp.def": 105,
-      "speed": 78,
+      "st1": 79,
+      "st2": 83,
+      "st3": 100,
+      "sp.st4": 85,
+      "sp.st5": 105,
+      "st6": 78,
       "total": 530
     },
     "evolution": [
@@ -269,12 +269,12 @@
       "Run Away"
     ],
     "stats": {
-      "hp": 45,
-      "attack": 30,
-      "defense": 35,
-      "sp.atk": 20,
-      "sp.def": 20,
-      "speed": 45,
+      "st1": 45,
+      "st2": 30,
+      "st3": 35,
+      "sp.st4": 20,
+      "sp.st5": 20,
+      "st6": 45,
       "total": 195
     },
     "evolution": [
@@ -296,12 +296,12 @@
       "Shed Skin"
     ],
     "stats": {
-      "hp": 50,
-      "attack": 20,
-      "defense": 55,
-      "sp.atk": 25,
-      "sp.def": 25,
-      "speed": 30,
+      "st1": 50,
+      "st2": 20,
+      "st3": 55,
+      "sp.st4": 25,
+      "sp.st5": 25,
+      "st6": 30,
       "total": 205
     },
     "evolution": [
@@ -325,12 +325,12 @@
       "Tinted Lens"
     ],
     "stats": {
-      "hp": 60,
-      "attack": 45,
-      "defense": 50,
-      "sp.atk": 90,
-      "sp.def": 80,
-      "speed": 70,
+      "st1": 60,
+      "st2": 45,
+      "st3": 50,
+      "sp.st4": 90,
+      "sp.st5": 80,
+      "st6": 70,
       "total": 395
     },
     "evolution": [
@@ -354,12 +354,12 @@
       "Run Away"
     ],
     "stats": {
-      "hp": 40,
-      "attack": 35,
-      "defense": 30,
-      "sp.atk": 20,
-      "sp.def": 20,
-      "speed": 50,
+      "st1": 40,
+      "st2": 35,
+      "st3": 30,
+      "sp.st4": 20,
+      "sp.st5": 20,
+      "st6": 50,
       "total": 195
     },
     "evolution": [
@@ -382,12 +382,12 @@
       "Shed Skin"
     ],
     "stats": {
-      "hp": 45,
-      "attack": 25,
-      "defense": 50,
-      "sp.atk": 25,
-      "sp.def": 25,
-      "speed": 35,
+      "st1": 45,
+      "st2": 25,
+      "st3": 50,
+      "sp.st4": 25,
+      "sp.st5": 25,
+      "st6": 35,
       "total": 205
     },
     "evolution": [
@@ -411,12 +411,12 @@
       "Sniper"
     ],
     "stats": {
-      "hp": 65,
-      "attack": 90,
-      "defense": 40,
-      "sp.atk": 45,
-      "sp.def": 80,
-      "speed": 75,
+      "st1": 65,
+      "st2": 90,
+      "st3": 40,
+      "sp.st4": 45,
+      "sp.st5": 80,
+      "st6": 75,
       "total": 395
     },
     "evolution": [
@@ -441,12 +441,12 @@
       "Big Pecks"
     ],
     "stats": {
-      "hp": 40,
-      "attack": 45,
-      "defense": 40,
-      "sp.atk": 35,
-      "sp.def": 35,
-      "speed": 56,
+      "st1": 40,
+      "st2": 45,
+      "st3": 40,
+      "sp.st4": 35,
+      "sp.st5": 35,
+      "st6": 56,
       "total": 251
     },
     "evolution": [
@@ -471,12 +471,12 @@
       "Big Pecks"
     ],
     "stats": {
-      "hp": 63,
-      "attack": 60,
-      "defense": 55,
-      "sp.atk": 50,
-      "sp.def": 50,
-      "speed": 71,
+      "st1": 63,
+      "st2": 60,
+      "st3": 55,
+      "sp.st4": 50,
+      "sp.st5": 50,
+      "st6": 71,
       "total": 349
     },
     "evolution": [
@@ -501,12 +501,12 @@
       "Big Pecks"
     ],
     "stats": {
-      "hp": 83,
-      "attack": 80,
-      "defense": 75,
-      "sp.atk": 70,
-      "sp.def": 70,
-      "speed": 101,
+      "st1": 83,
+      "st2": 80,
+      "st3": 75,
+      "sp.st4": 70,
+      "sp.st5": 70,
+      "st6": 101,
       "total": 479
     },
     "evolution": [
@@ -530,12 +530,12 @@
       "habilidad19"
     ],
     "stats": {
-      "hp": 30,
-      "attack": 56,
-      "defense": 35,
-      "sp.atk": 25,
-      "sp.def": 35,
-      "speed": 72,
+      "st1": 30,
+      "st2": 56,
+      "st3": 35,
+      "sp.st4": 25,
+      "sp.st5": 35,
+      "st6": 72,
       "total": 253
     },
     "evolution": [
@@ -559,12 +559,12 @@
       "habilidad19"
     ],
     "stats": {
-      "hp": 55,
-      "attack": 81,
-      "defense": 60,
-      "sp.atk": 50,
-      "sp.def": 70,
-      "speed": 97,
+      "st1": 55,
+      "st2": 81,
+      "st3": 60,
+      "sp.st4": 50,
+      "sp.st5": 70,
+      "st6": 97,
       "total": 413
     },
     "evolution": [
@@ -588,12 +588,12 @@
       "Sniper"
     ],
     "stats": {
-      "hp": 40,
-      "attack": 60,
-      "defense": 30,
-      "sp.atk": 31,
-      "sp.def": 31,
-      "speed": 70,
+      "st1": 40,
+      "st2": 60,
+      "st3": 30,
+      "sp.st4": 31,
+      "sp.st5": 31,
+      "st6": 70,
       "total": 262
     },
     "evolution": [
@@ -617,12 +617,12 @@
       "Sniper"
     ],
     "stats": {
-      "hp": 65,
-      "attack": 90,
-      "defense": 65,
-      "sp.atk": 61,
-      "sp.def": 61,
-      "speed": 100,
+      "st1": 65,
+      "st2": 90,
+      "st3": 65,
+      "sp.st4": 61,
+      "sp.st5": 61,
+      "st6": 100,
       "total": 442
     },
     "evolution": [
@@ -646,12 +646,12 @@
       "Unnerve"
     ],
     "stats": {
-      "hp": 35,
-      "attack": 60,
-      "defense": 44,
-      "sp.atk": 40,
-      "sp.def": 54,
-      "speed": 55,
+      "st1": 35,
+      "st2": 60,
+      "st3": 44,
+      "sp.st4": 40,
+      "sp.st5": 54,
+      "st6": 55,
       "total": 288
     },
     "evolution": [
@@ -675,12 +675,12 @@
       "Unnerve"
     ],
     "stats": {
-      "hp": 60,
-      "attack": 85,
-      "defense": 69,
-      "sp.atk": 65,
-      "sp.def": 79,
-      "speed": 80,
+      "st1": 60,
+      "st2": 85,
+      "st3": 69,
+      "sp.st4": 65,
+      "sp.st5": 79,
+      "st6": 80,
       "total": 438
     },
     "evolution": [
@@ -703,12 +703,12 @@
       "Lightning Rod"
     ],
     "stats": {
-      "hp": 35,
-      "attack": 55,
-      "defense": 40,
-      "sp.atk": 50,
-      "sp.def": 50,
-      "speed": 90,
+      "st1": 35,
+      "st2": 55,
+      "st3": 40,
+      "sp.st4": 50,
+      "sp.st5": 50,
+      "st6": 90,
       "total": 320
     },
     "evolution": [
@@ -731,12 +731,12 @@
       "Lightning Rod"
     ],
     "stats": {
-      "hp": 60,
-      "attack": 90,
-      "defense": 55,
-      "sp.atk": 90,
-      "sp.def": 80,
-      "speed": 110,
+      "st1": 60,
+      "st2": 90,
+      "st3": 55,
+      "sp.st4": 90,
+      "sp.st5": 80,
+      "st6": 110,
       "total": 485
     },
     "evolution": [
@@ -759,12 +759,12 @@
       "Sand Rush"
     ],
     "stats": {
-      "hp": 50,
-      "attack": 75,
-      "defense": 85,
-      "sp.atk": 20,
-      "sp.def": 30,
-      "speed": 40,
+      "st1": 50,
+      "st2": 75,
+      "st3": 85,
+      "sp.st4": 20,
+      "sp.st5": 30,
+      "st6": 40,
       "total": 300
     },
     "evolution": [
@@ -787,12 +787,12 @@
       "Sand Rush"
     ],
     "stats": {
-      "hp": 75,
-      "attack": 100,
-      "defense": 110,
-      "sp.atk": 45,
-      "sp.def": 55,
-      "speed": 65,
+      "st1": 75,
+      "st2": 100,
+      "st3": 110,
+      "sp.st4": 45,
+      "sp.st5": 55,
+      "st6": 65,
       "total": 450
     },
     "evolution": [
@@ -816,12 +816,12 @@
       "habilidad19"
     ],
     "stats": {
-      "hp": 55,
-      "attack": 47,
-      "defense": 52,
-      "sp.atk": 40,
-      "sp.def": 40,
-      "speed": 41,
+      "st1": 55,
+      "st2": 47,
+      "st3": 52,
+      "sp.st4": 40,
+      "sp.st5": 40,
+      "st6": 41,
       "total": 275
     },
     "evolution": [
@@ -845,12 +845,12 @@
       "habilidad19"
     ],
     "stats": {
-      "hp": 70,
-      "attack": 62,
-      "defense": 67,
-      "sp.atk": 55,
-      "sp.def": 55,
-      "speed": 56,
+      "st1": 70,
+      "st2": 62,
+      "st3": 67,
+      "sp.st4": 55,
+      "sp.st5": 55,
+      "st6": 56,
       "total": 365
     },
     "evolution": [
@@ -875,12 +875,12 @@
       "Sheer Force"
     ],
     "stats": {
-      "hp": 90,
-      "attack": 92,
-      "defense": 87,
-      "sp.atk": 75,
-      "sp.def": 85,
-      "speed": 76,
+      "st1": 90,
+      "st2": 92,
+      "st3": 87,
+      "sp.st4": 75,
+      "sp.st5": 85,
+      "st6": 76,
       "total": 505
     },
     "evolution": [
@@ -904,12 +904,12 @@
       "habilidad19"
     ],
     "stats": {
-      "hp": 46,
-      "attack": 57,
-      "defense": 40,
-      "sp.atk": 40,
-      "sp.def": 40,
-      "speed": 50,
+      "st1": 46,
+      "st2": 57,
+      "st3": 40,
+      "sp.st4": 40,
+      "sp.st5": 40,
+      "st6": 50,
       "total": 273
     },
     "evolution": [
@@ -933,12 +933,12 @@
       "habilidad19"
     ],
     "stats": {
-      "hp": 61,
-      "attack": 72,
-      "defense": 57,
-      "sp.atk": 55,
-      "sp.def": 55,
-      "speed": 65,
+      "st1": 61,
+      "st2": 72,
+      "st3": 57,
+      "sp.st4": 55,
+      "sp.st5": 55,
+      "st6": 65,
       "total": 365
     },
     "evolution": [
@@ -963,12 +963,12 @@
       "Sheer Force"
     ],
     "stats": {
-      "hp": 81,
-      "attack": 102,
-      "defense": 77,
-      "sp.atk": 85,
-      "sp.def": 75,
-      "speed": 85,
+      "st1": 81,
+      "st2": 102,
+      "st3": 77,
+      "sp.st4": 85,
+      "sp.st5": 75,
+      "st6": 85,
       "total": 505
     },
     "evolution": [
@@ -992,12 +992,12 @@
       "habilidad22"
     ],
     "stats": {
-      "hp": 70,
-      "attack": 45,
-      "defense": 48,
-      "sp.atk": 60,
-      "sp.def": 65,
-      "speed": 35,
+      "st1": 70,
+      "st2": 45,
+      "st3": 48,
+      "sp.st4": 60,
+      "sp.st5": 65,
+      "st6": 35,
       "total": 323
     },
     "evolution": [
@@ -1021,12 +1021,12 @@
       "Unaware"
     ],
     "stats": {
-      "hp": 95,
-      "attack": 70,
-      "defense": 73,
-      "sp.atk": 95,
-      "sp.def": 90,
-      "speed": 60,
+      "st1": 95,
+      "st2": 70,
+      "st3": 73,
+      "sp.st4": 95,
+      "sp.st5": 90,
+      "st6": 60,
       "total": 483
     },
     "evolution": [
@@ -1049,12 +1049,12 @@
       "Drought"
     ],
     "stats": {
-      "hp": 38,
-      "attack": 41,
-      "defense": 40,
-      "sp.atk": 50,
-      "sp.def": 65,
-      "speed": 65,
+      "st1": 38,
+      "st2": 41,
+      "st3": 40,
+      "sp.st4": 50,
+      "sp.st5": 65,
+      "st6": 65,
       "total": 299
     },
     "evolution": [
@@ -1077,12 +1077,12 @@
       "Drought"
     ],
     "stats": {
-      "hp": 73,
-      "attack": 76,
-      "defense": 75,
-      "sp.atk": 81,
-      "sp.def": 100,
-      "speed": 100,
+      "st1": 73,
+      "st2": 76,
+      "st3": 75,
+      "sp.st4": 81,
+      "sp.st5": 100,
+      "st6": 100,
       "total": 505
     },
     "evolution": [
@@ -1107,12 +1107,12 @@
       "habilidad22"
     ],
     "stats": {
-      "hp": 115,
-      "attack": 45,
-      "defense": 20,
-      "sp.atk": 45,
-      "sp.def": 25,
-      "speed": 20,
+      "st1": 115,
+      "st2": 45,
+      "st3": 20,
+      "sp.st4": 45,
+      "sp.st5": 25,
+      "st6": 20,
       "total": 270
     },
     "evolution": [
@@ -1137,12 +1137,12 @@
       "Frisk"
     ],
     "stats": {
-      "hp": 140,
-      "attack": 70,
-      "defense": 45,
-      "sp.atk": 85,
-      "sp.def": 50,
-      "speed": 45,
+      "st1": 140,
+      "st2": 70,
+      "st3": 45,
+      "sp.st4": 85,
+      "sp.st5": 50,
+      "st6": 45,
       "total": 435
     },
     "evolution": [
@@ -1166,12 +1166,12 @@
       "Infiltrator"
     ],
     "stats": {
-      "hp": 40,
-      "attack": 45,
-      "defense": 35,
-      "sp.atk": 30,
-      "sp.def": 40,
-      "speed": 55,
+      "st1": 40,
+      "st2": 45,
+      "st3": 35,
+      "sp.st4": 30,
+      "sp.st5": 40,
+      "st6": 55,
       "total": 245
     },
     "evolution": [
@@ -1195,12 +1195,12 @@
       "Infiltrator"
     ],
     "stats": {
-      "hp": 75,
-      "attack": 80,
-      "defense": 70,
-      "sp.atk": 65,
-      "sp.def": 75,
-      "speed": 90,
+      "st1": 75,
+      "st2": 80,
+      "st3": 70,
+      "sp.st4": 65,
+      "sp.st5": 75,
+      "st6": 90,
       "total": 455
     },
     "evolution": [
@@ -1224,12 +1224,12 @@
       "Run Away"
     ],
     "stats": {
-      "hp": 45,
-      "attack": 50,
-      "defense": 55,
-      "sp.atk": 75,
-      "sp.def": 65,
-      "speed": 30,
+      "st1": 45,
+      "st2": 50,
+      "st3": 55,
+      "sp.st4": 75,
+      "sp.st5": 65,
+      "st6": 30,
       "total": 320
     },
     "evolution": [
@@ -1253,12 +1253,12 @@
       "Stench"
     ],
     "stats": {
-      "hp": 60,
-      "attack": 65,
-      "defense": 70,
-      "sp.atk": 85,
-      "sp.def": 75,
-      "speed": 40,
+      "st1": 60,
+      "st2": 65,
+      "st3": 70,
+      "sp.st4": 85,
+      "sp.st5": 75,
+      "st6": 40,
       "total": 395
     },
     "evolution": [
@@ -1282,12 +1282,12 @@
       "Effect Spore"
     ],
     "stats": {
-      "hp": 75,
-      "attack": 80,
-      "defense": 85,
-      "sp.atk": 110,
-      "sp.def": 90,
-      "speed": 50,
+      "st1": 75,
+      "st2": 80,
+      "st3": 85,
+      "sp.st4": 110,
+      "sp.st5": 90,
+      "st6": 50,
       "total": 490
     },
     "evolution": [
@@ -1312,12 +1312,12 @@
       "habilidad16"
     ],
     "stats": {
-      "hp": 35,
-      "attack": 70,
-      "defense": 55,
-      "sp.atk": 45,
-      "sp.def": 55,
-      "speed": 25,
+      "st1": 35,
+      "st2": 70,
+      "st3": 55,
+      "sp.st4": 45,
+      "sp.st5": 55,
+      "st6": 25,
       "total": 285
     },
     "evolution": [
@@ -1342,12 +1342,12 @@
       "habilidad16"
     ],
     "stats": {
-      "hp": 60,
-      "attack": 95,
-      "defense": 80,
-      "sp.atk": 60,
-      "sp.def": 80,
-      "speed": 30,
+      "st1": 60,
+      "st2": 95,
+      "st3": 80,
+      "sp.st4": 60,
+      "sp.st5": 80,
+      "st6": 30,
       "total": 405
     },
     "evolution": [
@@ -1372,12 +1372,12 @@
       "Run Away"
     ],
     "stats": {
-      "hp": 60,
-      "attack": 55,
-      "defense": 50,
-      "sp.atk": 40,
-      "sp.def": 55,
-      "speed": 45,
+      "st1": 60,
+      "st2": 55,
+      "st3": 50,
+      "sp.st4": 40,
+      "sp.st5": 55,
+      "st6": 45,
       "total": 305
     },
     "evolution": [
@@ -1402,12 +1402,12 @@
       "Wonder Skin"
     ],
     "stats": {
-      "hp": 70,
-      "attack": 65,
-      "defense": 60,
-      "sp.atk": 90,
-      "sp.def": 75,
-      "speed": 90,
+      "st1": 70,
+      "st2": 65,
+      "st3": 60,
+      "sp.st4": 90,
+      "sp.st5": 75,
+      "st6": 90,
       "total": 450
     },
     "evolution": [
@@ -1431,12 +1431,12 @@
       "Sand Force"
     ],
     "stats": {
-      "hp": 10,
-      "attack": 55,
-      "defense": 25,
-      "sp.atk": 35,
-      "sp.def": 45,
-      "speed": 95,
+      "st1": 10,
+      "st2": 55,
+      "st3": 25,
+      "sp.st4": 35,
+      "sp.st5": 45,
+      "st6": 95,
       "total": 265
     },
     "evolution": [
@@ -1460,12 +1460,12 @@
       "Sand Force"
     ],
     "stats": {
-      "hp": 35,
-      "attack": 80,
-      "defense": 50,
-      "sp.atk": 50,
-      "sp.def": 70,
-      "speed": 120,
+      "st1": 35,
+      "st2": 80,
+      "st3": 50,
+      "sp.st4": 50,
+      "sp.st5": 70,
+      "st6": 120,
       "total": 405
     },
     "evolution": [
@@ -1489,12 +1489,12 @@
       "Unnerve"
     ],
     "stats": {
-      "hp": 40,
-      "attack": 45,
-      "defense": 35,
-      "sp.atk": 40,
-      "sp.def": 40,
-      "speed": 90,
+      "st1": 40,
+      "st2": 45,
+      "st3": 35,
+      "sp.st4": 40,
+      "sp.st5": 40,
+      "st6": 90,
       "total": 290
     },
     "evolution": [
@@ -1518,12 +1518,12 @@
       "Unnerve"
     ],
     "stats": {
-      "hp": 65,
-      "attack": 70,
-      "defense": 60,
-      "sp.atk": 65,
-      "sp.def": 65,
-      "speed": 115,
+      "st1": 65,
+      "st2": 70,
+      "st3": 60,
+      "sp.st4": 65,
+      "sp.st5": 65,
+      "st6": 115,
       "total": 440
     },
     "evolution": [
@@ -1547,12 +1547,12 @@
       "habilidad13"
     ],
     "stats": {
-      "hp": 50,
-      "attack": 52,
-      "defense": 48,
-      "sp.atk": 65,
-      "sp.def": 50,
-      "speed": 55,
+      "st1": 50,
+      "st2": 52,
+      "st3": 48,
+      "sp.st4": 65,
+      "sp.st5": 50,
+      "st6": 55,
       "total": 320
     },
     "evolution": [
@@ -1576,12 +1576,12 @@
       "habilidad13"
     ],
     "stats": {
-      "hp": 80,
-      "attack": 82,
-      "defense": 78,
-      "sp.atk": 95,
-      "sp.def": 80,
-      "speed": 85,
+      "st1": 80,
+      "st2": 82,
+      "st3": 78,
+      "sp.st4": 95,
+      "sp.st5": 80,
+      "st6": 85,
       "total": 500
     },
     "evolution": [
@@ -1605,12 +1605,12 @@
       "Defiant"
     ],
     "stats": {
-      "hp": 40,
-      "attack": 80,
-      "defense": 35,
-      "sp.atk": 35,
-      "sp.def": 45,
-      "speed": 70,
+      "st1": 40,
+      "st2": 80,
+      "st3": 35,
+      "sp.st4": 35,
+      "sp.st5": 45,
+      "st6": 70,
       "total": 305
     },
     "evolution": [
@@ -1634,12 +1634,12 @@
       "Defiant"
     ],
     "stats": {
-      "hp": 65,
-      "attack": 105,
-      "defense": 60,
-      "sp.atk": 60,
-      "sp.def": 70,
-      "speed": 95,
+      "st1": 65,
+      "st2": 105,
+      "st3": 60,
+      "sp.st4": 60,
+      "sp.st5": 70,
+      "st6": 95,
       "total": 455
     },
     "evolution": [
@@ -1663,12 +1663,12 @@
       "Justified"
     ],
     "stats": {
-      "hp": 55,
-      "attack": 70,
-      "defense": 45,
-      "sp.atk": 70,
-      "sp.def": 50,
-      "speed": 60,
+      "st1": 55,
+      "st2": 70,
+      "st3": 45,
+      "sp.st4": 70,
+      "sp.st5": 50,
+      "st6": 60,
       "total": 350
     },
     "evolution": [
@@ -1692,12 +1692,12 @@
       "Justified"
     ],
     "stats": {
-      "hp": 90,
-      "attack": 110,
-      "defense": 80,
-      "sp.atk": 100,
-      "sp.def": 80,
-      "speed": 95,
+      "st1": 90,
+      "st2": 110,
+      "st3": 80,
+      "sp.st4": 100,
+      "sp.st5": 80,
+      "st6": 95,
       "total": 555
     },
     "evolution": [
@@ -1721,12 +1721,12 @@
       "habilidad13"
     ],
     "stats": {
-      "hp": 40,
-      "attack": 50,
-      "defense": 40,
-      "sp.atk": 40,
-      "sp.def": 40,
-      "speed": 90,
+      "st1": 40,
+      "st2": 50,
+      "st3": 40,
+      "sp.st4": 40,
+      "sp.st5": 40,
+      "st6": 90,
       "total": 300
     },
     "evolution": [
@@ -1750,12 +1750,12 @@
       "habilidad13"
     ],
     "stats": {
-      "hp": 65,
-      "attack": 65,
-      "defense": 65,
-      "sp.atk": 50,
-      "sp.def": 50,
-      "speed": 90,
+      "st1": 65,
+      "st2": 65,
+      "st3": 65,
+      "sp.st4": 50,
+      "sp.st5": 50,
+      "st6": 90,
       "total": 385
     },
     "evolution": [
@@ -1780,12 +1780,12 @@
       "habilidad13"
     ],
     "stats": {
-      "hp": 90,
-      "attack": 95,
-      "defense": 95,
-      "sp.atk": 70,
-      "sp.def": 90,
-      "speed": 70,
+      "st1": 90,
+      "st2": 95,
+      "st3": 95,
+      "sp.st4": 70,
+      "sp.st5": 90,
+      "st6": 70,
       "total": 510
     },
     "evolution": [
@@ -1809,12 +1809,12 @@
       "habilidad23"
     ],
     "stats": {
-      "hp": 25,
-      "attack": 20,
-      "defense": 15,
-      "sp.atk": 105,
-      "sp.def": 55,
-      "speed": 90,
+      "st1": 25,
+      "st2": 20,
+      "st3": 15,
+      "sp.st4": 105,
+      "sp.st5": 55,
+      "st6": 90,
       "total": 310
     },
     "evolution": [
@@ -1838,12 +1838,12 @@
       "habilidad23"
     ],
     "stats": {
-      "hp": 40,
-      "attack": 35,
-      "defense": 30,
-      "sp.atk": 120,
-      "sp.def": 70,
-      "speed": 105,
+      "st1": 40,
+      "st2": 35,
+      "st3": 30,
+      "sp.st4": 120,
+      "sp.st5": 70,
+      "st6": 105,
       "total": 400
     },
     "evolution": [
@@ -1867,12 +1867,12 @@
       "habilidad23"
     ],
     "stats": {
-      "hp": 55,
-      "attack": 50,
-      "defense": 45,
-      "sp.atk": 135,
-      "sp.def": 95,
-      "speed": 120,
+      "st1": 55,
+      "st2": 50,
+      "st3": 45,
+      "sp.st4": 135,
+      "sp.st5": 95,
+      "st6": 120,
       "total": 500
     },
     "evolution": [
@@ -1896,12 +1896,12 @@
       "Steadfast"
     ],
     "stats": {
-      "hp": 70,
-      "attack": 80,
-      "defense": 50,
-      "sp.atk": 35,
-      "sp.def": 35,
-      "speed": 35,
+      "st1": 70,
+      "st2": 80,
+      "st3": 50,
+      "sp.st4": 35,
+      "sp.st5": 35,
+      "st6": 35,
       "total": 305
     },
     "evolution": [
@@ -1925,12 +1925,12 @@
       "Steadfast"
     ],
     "stats": {
-      "hp": 80,
-      "attack": 100,
-      "defense": 70,
-      "sp.atk": 50,
-      "sp.def": 60,
-      "speed": 45,
+      "st1": 80,
+      "st2": 100,
+      "st3": 70,
+      "sp.st4": 50,
+      "sp.st5": 60,
+      "st6": 45,
       "total": 405
     },
     "evolution": [
@@ -1954,12 +1954,12 @@
       "Steadfast"
     ],
     "stats": {
-      "hp": 90,
-      "attack": 130,
-      "defense": 80,
-      "sp.atk": 65,
-      "sp.def": 85,
-      "speed": 55,
+      "st1": 90,
+      "st2": 130,
+      "st3": 80,
+      "sp.st4": 65,
+      "sp.st5": 85,
+      "st6": 55,
       "total": 505
     },
     "evolution": [
@@ -1983,12 +1983,12 @@
       "Gluttony"
     ],
     "stats": {
-      "hp": 50,
-      "attack": 75,
-      "defense": 35,
-      "sp.atk": 70,
-      "sp.def": 30,
-      "speed": 40,
+      "st1": 50,
+      "st2": 75,
+      "st3": 35,
+      "sp.st4": 70,
+      "sp.st5": 30,
+      "st6": 40,
       "total": 300
     },
     "evolution": [
@@ -2012,12 +2012,12 @@
       "Gluttony"
     ],
     "stats": {
-      "hp": 65,
-      "attack": 90,
-      "defense": 50,
-      "sp.atk": 85,
-      "sp.def": 45,
-      "speed": 55,
+      "st1": 65,
+      "st2": 90,
+      "st3": 50,
+      "sp.st4": 85,
+      "sp.st5": 45,
+      "st6": 55,
       "total": 390
     },
     "evolution": [
@@ -2041,12 +2041,12 @@
       "Gluttony"
     ],
     "stats": {
-      "hp": 80,
-      "attack": 105,
-      "defense": 65,
-      "sp.atk": 100,
-      "sp.def": 70,
-      "speed": 70,
+      "st1": 80,
+      "st2": 105,
+      "st3": 65,
+      "sp.st4": 100,
+      "sp.st5": 70,
+      "st6": 70,
       "total": 490
     },
     "evolution": [
@@ -2071,12 +2071,12 @@
       "habilidad6"
     ],
     "stats": {
-      "hp": 40,
-      "attack": 40,
-      "defense": 35,
-      "sp.atk": 50,
-      "sp.def": 100,
-      "speed": 70,
+      "st1": 40,
+      "st2": 40,
+      "st3": 35,
+      "sp.st4": 50,
+      "sp.st5": 100,
+      "st6": 70,
       "total": 335
     },
     "evolution": [
@@ -2101,12 +2101,12 @@
       "habilidad6"
     ],
     "stats": {
-      "hp": 80,
-      "attack": 70,
-      "defense": 65,
-      "sp.atk": 80,
-      "sp.def": 120,
-      "speed": 100,
+      "st1": 80,
+      "st2": 70,
+      "st3": 65,
+      "sp.st4": 80,
+      "sp.st5": 120,
+      "st6": 100,
       "total": 515
     },
     "evolution": [
@@ -2131,12 +2131,12 @@
       "Sand Veil"
     ],
     "stats": {
-      "hp": 40,
-      "attack": 80,
-      "defense": 100,
-      "sp.atk": 30,
-      "sp.def": 30,
-      "speed": 20,
+      "st1": 40,
+      "st2": 80,
+      "st3": 100,
+      "sp.st4": 30,
+      "sp.st5": 30,
+      "st6": 20,
       "total": 300
     },
     "evolution": [
@@ -2161,12 +2161,12 @@
       "Sand Veil"
     ],
     "stats": {
-      "hp": 55,
-      "attack": 95,
-      "defense": 115,
-      "sp.atk": 45,
-      "sp.def": 45,
-      "speed": 35,
+      "st1": 55,
+      "st2": 95,
+      "st3": 115,
+      "sp.st4": 45,
+      "sp.st5": 45,
+      "st6": 35,
       "total": 390
     },
     "evolution": [
@@ -2191,12 +2191,12 @@
       "Sand Veil"
     ],
     "stats": {
-      "hp": 80,
-      "attack": 120,
-      "defense": 130,
-      "sp.atk": 55,
-      "sp.def": 65,
-      "speed": 45,
+      "st1": 80,
+      "st2": 120,
+      "st3": 130,
+      "sp.st4": 55,
+      "sp.st5": 65,
+      "st6": 45,
       "total": 495
     },
     "evolution": [
@@ -2220,12 +2220,12 @@
       "Flame Body"
     ],
     "stats": {
-      "hp": 50,
-      "attack": 85,
-      "defense": 55,
-      "sp.atk": 65,
-      "sp.def": 65,
-      "speed": 90,
+      "st1": 50,
+      "st2": 85,
+      "st3": 55,
+      "sp.st4": 65,
+      "sp.st5": 65,
+      "st6": 90,
       "total": 410
     },
     "evolution": [
@@ -2249,12 +2249,12 @@
       "Flame Body"
     ],
     "stats": {
-      "hp": 65,
-      "attack": 100,
-      "defense": 70,
-      "sp.atk": 80,
-      "sp.def": 80,
-      "speed": 105,
+      "st1": 65,
+      "st2": 100,
+      "st3": 70,
+      "sp.st4": 80,
+      "sp.st5": 80,
+      "st6": 105,
       "total": 500
     },
     "evolution": [
@@ -2279,12 +2279,12 @@
       "Regenerator"
     ],
     "stats": {
-      "hp": 90,
-      "attack": 65,
-      "defense": 65,
-      "sp.atk": 40,
-      "sp.def": 40,
-      "speed": 15,
+      "st1": 90,
+      "st2": 65,
+      "st3": 65,
+      "sp.st4": 40,
+      "sp.st5": 40,
+      "st6": 15,
       "total": 315
     },
     "evolution": [
@@ -2309,12 +2309,12 @@
       "Regenerator"
     ],
     "stats": {
-      "hp": 95,
-      "attack": 75,
-      "defense": 110,
-      "sp.atk": 100,
-      "sp.def": 80,
-      "speed": 30,
+      "st1": 95,
+      "st2": 75,
+      "st3": 110,
+      "sp.st4": 100,
+      "sp.st5": 80,
+      "st6": 30,
       "total": 490
     },
     "evolution": [
@@ -2339,12 +2339,12 @@
       "Analytic"
     ],
     "stats": {
-      "hp": 25,
-      "attack": 35,
-      "defense": 70,
-      "sp.atk": 95,
-      "sp.def": 55,
-      "speed": 45,
+      "st1": 25,
+      "st2": 35,
+      "st3": 70,
+      "sp.st4": 95,
+      "sp.st5": 55,
+      "st6": 45,
       "total": 325
     },
     "evolution": [
@@ -2369,12 +2369,12 @@
       "Analytic"
     ],
     "stats": {
-      "hp": 50,
-      "attack": 60,
-      "defense": 95,
-      "sp.atk": 120,
-      "sp.def": 70,
-      "speed": 70,
+      "st1": 50,
+      "st2": 60,
+      "st3": 95,
+      "sp.st4": 120,
+      "sp.st5": 70,
+      "st6": 70,
       "total": 465
     },
     "evolution": [
@@ -2399,12 +2399,12 @@
       "Defiant"
     ],
     "stats": {
-      "hp": 52,
-      "attack": 65,
-      "defense": 55,
-      "sp.atk": 58,
-      "sp.def": 62,
-      "speed": 60,
+      "st1": 52,
+      "st2": 65,
+      "st3": 55,
+      "sp.st4": 58,
+      "sp.st5": 62,
+      "st6": 60,
       "total": 352
     },
     "evolution": []
@@ -2425,12 +2425,12 @@
       "Tangled Feet"
     ],
     "stats": {
-      "hp": 35,
-      "attack": 85,
-      "defense": 45,
-      "sp.atk": 35,
-      "sp.def": 35,
-      "speed": 75,
+      "st1": 35,
+      "st2": 85,
+      "st3": 45,
+      "sp.st4": 35,
+      "sp.st5": 35,
+      "st6": 75,
       "total": 310
     },
     "evolution": [
@@ -2455,12 +2455,12 @@
       "Tangled Feet"
     ],
     "stats": {
-      "hp": 60,
-      "attack": 110,
-      "defense": 70,
-      "sp.atk": 60,
-      "sp.def": 60,
-      "speed": 100,
+      "st1": 60,
+      "st2": 110,
+      "st3": 70,
+      "sp.st4": 60,
+      "sp.st5": 60,
+      "st6": 100,
       "total": 460
     },
     "evolution": [
@@ -2484,12 +2484,12 @@
       "Tipo14 Body"
     ],
     "stats": {
-      "hp": 65,
-      "attack": 45,
-      "defense": 55,
-      "sp.atk": 45,
-      "sp.def": 70,
-      "speed": 45,
+      "st1": 65,
+      "st2": 45,
+      "st3": 55,
+      "sp.st4": 45,
+      "sp.st5": 70,
+      "st6": 45,
       "total": 325
     },
     "evolution": [
@@ -2514,12 +2514,12 @@
       "Tipo14 Body"
     ],
     "stats": {
-      "hp": 90,
-      "attack": 70,
-      "defense": 80,
-      "sp.atk": 70,
-      "sp.def": 95,
-      "speed": 70,
+      "st1": 90,
+      "st2": 70,
+      "st3": 80,
+      "sp.st4": 70,
+      "sp.st5": 95,
+      "st6": 70,
       "total": 475
     },
     "evolution": [
@@ -2543,12 +2543,12 @@
       "Tipo2 Touch"
     ],
     "stats": {
-      "hp": 80,
-      "attack": 80,
-      "defense": 50,
-      "sp.atk": 40,
-      "sp.def": 50,
-      "speed": 25,
+      "st1": 80,
+      "st2": 80,
+      "st3": 50,
+      "sp.st4": 40,
+      "sp.st5": 50,
+      "st6": 25,
       "total": 325
     },
     "evolution": [
@@ -2572,12 +2572,12 @@
       "Tipo2 Touch"
     ],
     "stats": {
-      "hp": 105,
-      "attack": 105,
-      "defense": 75,
-      "sp.atk": 65,
-      "sp.def": 100,
-      "speed": 50,
+      "st1": 105,
+      "st2": 105,
+      "st3": 75,
+      "sp.st4": 65,
+      "sp.st5": 100,
+      "st6": 50,
       "total": 500
     },
     "evolution": [
@@ -2601,12 +2601,12 @@
       "Overcoat"
     ],
     "stats": {
-      "hp": 30,
-      "attack": 65,
-      "defense": 100,
-      "sp.atk": 45,
-      "sp.def": 25,
-      "speed": 40,
+      "st1": 30,
+      "st2": 65,
+      "st3": 100,
+      "sp.st4": 45,
+      "sp.st5": 25,
+      "st6": 40,
       "total": 305
     },
     "evolution": [
@@ -2631,12 +2631,12 @@
       "Overcoat"
     ],
     "stats": {
-      "hp": 50,
-      "attack": 95,
-      "defense": 180,
-      "sp.atk": 85,
-      "sp.def": 45,
-      "speed": 70,
+      "st1": 50,
+      "st2": 95,
+      "st3": 180,
+      "sp.st4": 85,
+      "sp.st5": 45,
+      "st6": 70,
       "total": 525
     },
     "evolution": [
@@ -2659,12 +2659,12 @@
       "Levitate"
     ],
     "stats": {
-      "hp": 30,
-      "attack": 35,
-      "defense": 30,
-      "sp.atk": 100,
-      "sp.def": 35,
-      "speed": 80,
+      "st1": 30,
+      "st2": 35,
+      "st3": 30,
+      "sp.st4": 100,
+      "sp.st5": 35,
+      "st6": 80,
       "total": 310
     },
     "evolution": [
@@ -2687,12 +2687,12 @@
       "Levitate"
     ],
     "stats": {
-      "hp": 45,
-      "attack": 50,
-      "defense": 45,
-      "sp.atk": 115,
-      "sp.def": 55,
-      "speed": 95,
+      "st1": 45,
+      "st2": 50,
+      "st3": 45,
+      "sp.st4": 115,
+      "sp.st5": 55,
+      "st6": 95,
       "total": 405
     },
     "evolution": [
@@ -2715,12 +2715,12 @@
       "Levitate"
     ],
     "stats": {
-      "hp": 60,
-      "attack": 65,
-      "defense": 60,
-      "sp.atk": 130,
-      "sp.def": 75,
-      "speed": 110,
+      "st1": 60,
+      "st2": 65,
+      "st3": 60,
+      "sp.st4": 130,
+      "sp.st5": 75,
+      "st6": 110,
       "total": 500
     },
     "evolution": [
@@ -2745,12 +2745,12 @@
       "habilidad11"
     ],
     "stats": {
-      "hp": 35,
-      "attack": 45,
-      "defense": 160,
-      "sp.atk": 30,
-      "sp.def": 45,
-      "speed": 70,
+      "st1": 35,
+      "st2": 45,
+      "st3": 160,
+      "sp.st4": 30,
+      "sp.st5": 45,
+      "st6": 70,
       "total": 385
     },
     "evolution": [
@@ -2774,12 +2774,12 @@
       "habilidad25"
     ],
     "stats": {
-      "hp": 60,
-      "attack": 48,
-      "defense": 45,
-      "sp.atk": 43,
-      "sp.def": 90,
-      "speed": 42,
+      "st1": 60,
+      "st2": 48,
+      "st3": 45,
+      "sp.st4": 43,
+      "sp.st5": 90,
+      "st6": 42,
       "total": 328
     },
     "evolution": [
@@ -2803,12 +2803,12 @@
       "habilidad25"
     ],
     "stats": {
-      "hp": 85,
-      "attack": 73,
-      "defense": 70,
-      "sp.atk": 73,
-      "sp.def": 115,
-      "speed": 67,
+      "st1": 85,
+      "st2": 73,
+      "st3": 70,
+      "sp.st4": 73,
+      "sp.st5": 115,
+      "st6": 67,
       "total": 483
     },
     "evolution": [
@@ -2832,12 +2832,12 @@
       "Sheer Force"
     ],
     "stats": {
-      "hp": 30,
-      "attack": 105,
-      "defense": 90,
-      "sp.atk": 25,
-      "sp.def": 25,
-      "speed": 50,
+      "st1": 30,
+      "st2": 105,
+      "st3": 90,
+      "sp.st4": 25,
+      "sp.st5": 25,
+      "st6": 50,
       "total": 325
     },
     "evolution": [
@@ -2861,12 +2861,12 @@
       "Sheer Force"
     ],
     "stats": {
-      "hp": 55,
-      "attack": 130,
-      "defense": 115,
-      "sp.atk": 50,
-      "sp.def": 50,
-      "speed": 75,
+      "st1": 55,
+      "st2": 130,
+      "st3": 115,
+      "sp.st4": 50,
+      "sp.st5": 50,
+      "st6": 75,
       "total": 475
     },
     "evolution": [
@@ -2890,12 +2890,12 @@
       "Aftermath"
     ],
     "stats": {
-      "hp": 40,
-      "attack": 30,
-      "defense": 50,
-      "sp.atk": 55,
-      "sp.def": 55,
-      "speed": 100,
+      "st1": 40,
+      "st2": 30,
+      "st3": 50,
+      "sp.st4": 55,
+      "sp.st5": 55,
+      "st6": 100,
       "total": 330
     },
     "evolution": [
@@ -2919,12 +2919,12 @@
       "Aftermath"
     ],
     "stats": {
-      "hp": 60,
-      "attack": 50,
-      "defense": 70,
-      "sp.atk": 80,
-      "sp.def": 80,
-      "speed": 140,
+      "st1": 60,
+      "st2": 50,
+      "st3": 70,
+      "sp.st4": 80,
+      "sp.st5": 80,
+      "st6": 140,
       "total": 480
     },
     "evolution": [
@@ -2948,12 +2948,12 @@
       "Harvest"
     ],
     "stats": {
-      "hp": 60,
-      "attack": 40,
-      "defense": 80,
-      "sp.atk": 60,
-      "sp.def": 45,
-      "speed": 40,
+      "st1": 60,
+      "st2": 40,
+      "st3": 80,
+      "sp.st4": 60,
+      "sp.st5": 45,
+      "st6": 40,
       "total": 325
     },
     "evolution": [
@@ -2977,12 +2977,12 @@
       "Harvest"
     ],
     "stats": {
-      "hp": 95,
-      "attack": 95,
-      "defense": 85,
-      "sp.atk": 125,
-      "sp.def": 65,
-      "speed": 55,
+      "st1": 95,
+      "st2": 95,
+      "st3": 85,
+      "sp.st4": 125,
+      "sp.st5": 65,
+      "st6": 55,
       "total": 520
     },
     "evolution": [
@@ -3006,12 +3006,12 @@
       "Battle Armor"
     ],
     "stats": {
-      "hp": 50,
-      "attack": 50,
-      "defense": 95,
-      "sp.atk": 40,
-      "sp.def": 50,
-      "speed": 35,
+      "st1": 50,
+      "st2": 50,
+      "st3": 95,
+      "sp.st4": 40,
+      "sp.st5": 50,
+      "st6": 35,
       "total": 320
     },
     "evolution": [
@@ -3035,12 +3035,12 @@
       "Battle Armor"
     ],
     "stats": {
-      "hp": 60,
-      "attack": 80,
-      "defense": 110,
-      "sp.atk": 50,
-      "sp.def": 80,
-      "speed": 45,
+      "st1": 60,
+      "st2": 80,
+      "st3": 110,
+      "sp.st4": 50,
+      "sp.st5": 80,
+      "st6": 45,
       "total": 425
     },
     "evolution": [
@@ -3064,12 +3064,12 @@
       "Unburden"
     ],
     "stats": {
-      "hp": 50,
-      "attack": 120,
-      "defense": 53,
-      "sp.atk": 35,
-      "sp.def": 110,
-      "speed": 87,
+      "st1": 50,
+      "st2": 120,
+      "st3": 53,
+      "sp.st4": 35,
+      "sp.st5": 110,
+      "st6": 87,
       "total": 455
     },
     "evolution": [
@@ -3093,12 +3093,12 @@
       "habilidad25"
     ],
     "stats": {
-      "hp": 50,
-      "attack": 105,
-      "defense": 79,
-      "sp.atk": 35,
-      "sp.def": 110,
-      "speed": 76,
+      "st1": 50,
+      "st2": 105,
+      "st3": 79,
+      "sp.st4": 35,
+      "sp.st5": 110,
+      "st6": 76,
       "total": 455
     },
     "evolution": [
@@ -3122,12 +3122,12 @@
       "Cloud Nine"
     ],
     "stats": {
-      "hp": 90,
-      "attack": 55,
-      "defense": 75,
-      "sp.atk": 60,
-      "sp.def": 75,
-      "speed": 30,
+      "st1": 90,
+      "st2": 55,
+      "st3": 75,
+      "sp.st4": 60,
+      "sp.st5": 75,
+      "st6": 30,
       "total": 385
     },
     "evolution": [
@@ -3149,12 +3149,12 @@
       "Levitate"
     ],
     "stats": {
-      "hp": 40,
-      "attack": 65,
-      "defense": 95,
-      "sp.atk": 60,
-      "sp.def": 45,
-      "speed": 35,
+      "st1": 40,
+      "st2": 65,
+      "st3": 95,
+      "sp.st4": 60,
+      "sp.st5": 45,
+      "st6": 35,
       "total": 340
     },
     "evolution": [
@@ -3176,12 +3176,12 @@
       "Levitate"
     ],
     "stats": {
-      "hp": 65,
-      "attack": 90,
-      "defense": 120,
-      "sp.atk": 85,
-      "sp.def": 70,
-      "speed": 60,
+      "st1": 65,
+      "st2": 90,
+      "st3": 120,
+      "sp.st4": 85,
+      "sp.st5": 70,
+      "st6": 60,
       "total": 490
     },
     "evolution": [
@@ -3206,12 +3206,12 @@
       "Reckless"
     ],
     "stats": {
-      "hp": 80,
-      "attack": 85,
-      "defense": 95,
-      "sp.atk": 30,
-      "sp.def": 30,
-      "speed": 25,
+      "st1": 80,
+      "st2": 85,
+      "st3": 95,
+      "sp.st4": 30,
+      "sp.st5": 30,
+      "st6": 25,
       "total": 345
     },
     "evolution": [
@@ -3236,12 +3236,12 @@
       "Reckless"
     ],
     "stats": {
-      "hp": 105,
-      "attack": 130,
-      "defense": 120,
-      "sp.atk": 45,
-      "sp.def": 45,
-      "speed": 40,
+      "st1": 105,
+      "st2": 130,
+      "st3": 120,
+      "sp.st4": 45,
+      "sp.st5": 45,
+      "st6": 40,
       "total": 485
     },
     "evolution": [
@@ -3265,12 +3265,12 @@
       "Healer"
     ],
     "stats": {
-      "hp": 250,
-      "attack": 5,
-      "defense": 5,
-      "sp.atk": 35,
-      "sp.def": 105,
-      "speed": 50,
+      "st1": 250,
+      "st2": 5,
+      "st3": 5,
+      "sp.st4": 35,
+      "sp.st5": 105,
+      "st6": 50,
       "total": 450
     },
     "evolution": [
@@ -3294,12 +3294,12 @@
       "Regenerator"
     ],
     "stats": {
-      "hp": 65,
-      "attack": 55,
-      "defense": 115,
-      "sp.atk": 100,
-      "sp.def": 40,
-      "speed": 60,
+      "st1": 65,
+      "st2": 55,
+      "st3": 115,
+      "sp.st4": 100,
+      "sp.st5": 40,
+      "st6": 60,
       "total": 435
     },
     "evolution": [
@@ -3323,12 +3323,12 @@
       "habilidad25"
     ],
     "stats": {
-      "hp": 105,
-      "attack": 95,
-      "defense": 80,
-      "sp.atk": 40,
-      "sp.def": 80,
-      "speed": 90,
+      "st1": 105,
+      "st2": 95,
+      "st3": 80,
+      "sp.st4": 40,
+      "sp.st5": 80,
+      "st6": 90,
       "total": 490
     },
     "evolution": []
@@ -3348,12 +3348,12 @@
       "habilidad16"
     ],
     "stats": {
-      "hp": 30,
-      "attack": 40,
-      "defense": 70,
-      "sp.atk": 70,
-      "sp.def": 25,
-      "speed": 60,
+      "st1": 30,
+      "st2": 40,
+      "st3": 70,
+      "sp.st4": 70,
+      "sp.st5": 25,
+      "st6": 60,
       "total": 295
     },
     "evolution": [
@@ -3377,12 +3377,12 @@
       "habilidad16"
     ],
     "stats": {
-      "hp": 55,
-      "attack": 65,
-      "defense": 95,
-      "sp.atk": 95,
-      "sp.def": 45,
-      "speed": 85,
+      "st1": 55,
+      "st2": 65,
+      "st3": 95,
+      "sp.st4": 95,
+      "sp.st5": 45,
+      "st6": 85,
       "total": 440
     },
     "evolution": [
@@ -3406,12 +3406,12 @@
       "Lightning Rod"
     ],
     "stats": {
-      "hp": 45,
-      "attack": 67,
-      "defense": 60,
-      "sp.atk": 35,
-      "sp.def": 50,
-      "speed": 63,
+      "st1": 45,
+      "st2": 67,
+      "st3": 60,
+      "sp.st4": 35,
+      "sp.st5": 50,
+      "st6": 63,
       "total": 320
     },
     "evolution": [
@@ -3435,12 +3435,12 @@
       "Lightning Rod"
     ],
     "stats": {
-      "hp": 80,
-      "attack": 92,
-      "defense": 65,
-      "sp.atk": 65,
-      "sp.def": 80,
-      "speed": 68,
+      "st1": 80,
+      "st2": 92,
+      "st3": 65,
+      "sp.st4": 65,
+      "sp.st5": 80,
+      "st6": 68,
       "total": 450
     },
     "evolution": [
@@ -3464,12 +3464,12 @@
       "Analytic"
     ],
     "stats": {
-      "hp": 30,
-      "attack": 45,
-      "defense": 55,
-      "sp.atk": 70,
-      "sp.def": 55,
-      "speed": 85,
+      "st1": 30,
+      "st2": 45,
+      "st3": 55,
+      "sp.st4": 70,
+      "sp.st5": 55,
+      "st6": 85,
       "total": 340
     },
     "evolution": [
@@ -3494,12 +3494,12 @@
       "Analytic"
     ],
     "stats": {
-      "hp": 60,
-      "attack": 75,
-      "defense": 85,
-      "sp.atk": 100,
-      "sp.def": 85,
-      "speed": 115,
+      "st1": 60,
+      "st2": 75,
+      "st3": 85,
+      "sp.st4": 100,
+      "sp.st5": 85,
+      "st6": 115,
       "total": 520
     },
     "evolution": [
@@ -3524,12 +3524,12 @@
       "Technician"
     ],
     "stats": {
-      "hp": 40,
-      "attack": 45,
-      "defense": 65,
-      "sp.atk": 100,
-      "sp.def": 120,
-      "speed": 90,
+      "st1": 40,
+      "st2": 45,
+      "st3": 65,
+      "sp.st4": 100,
+      "sp.st5": 120,
+      "st6": 90,
       "total": 460
     },
     "evolution": [
@@ -3553,12 +3553,12 @@
       "Steadfast"
     ],
     "stats": {
-      "hp": 70,
-      "attack": 110,
-      "defense": 80,
-      "sp.atk": 55,
-      "sp.def": 80,
-      "speed": 105,
+      "st1": 70,
+      "st2": 110,
+      "st3": 80,
+      "sp.st4": 55,
+      "sp.st5": 80,
+      "st6": 105,
       "total": 500
     },
     "evolution": [
@@ -3583,12 +3583,12 @@
       "Dry Skin"
     ],
     "stats": {
-      "hp": 65,
-      "attack": 50,
-      "defense": 35,
-      "sp.atk": 115,
-      "sp.def": 95,
-      "speed": 95,
+      "st1": 65,
+      "st2": 50,
+      "st3": 35,
+      "sp.st4": 115,
+      "sp.st5": 95,
+      "st6": 95,
       "total": 455
     },
     "evolution": [
@@ -3611,12 +3611,12 @@
       "Vital Spirit"
     ],
     "stats": {
-      "hp": 65,
-      "attack": 83,
-      "defense": 57,
-      "sp.atk": 95,
-      "sp.def": 85,
-      "speed": 105,
+      "st1": 65,
+      "st2": 83,
+      "st3": 57,
+      "sp.st4": 95,
+      "sp.st5": 85,
+      "st6": 105,
       "total": 490
     },
     "evolution": [
@@ -3639,12 +3639,12 @@
       "Vital Spirit"
     ],
     "stats": {
-      "hp": 65,
-      "attack": 95,
-      "defense": 57,
-      "sp.atk": 100,
-      "sp.def": 85,
-      "speed": 93,
+      "st1": 65,
+      "st2": 95,
+      "st3": 57,
+      "sp.st4": 100,
+      "sp.st5": 85,
+      "st6": 93,
       "total": 495
     },
     "evolution": [
@@ -3668,12 +3668,12 @@
       "Moxie"
     ],
     "stats": {
-      "hp": 65,
-      "attack": 125,
-      "defense": 100,
-      "sp.atk": 55,
-      "sp.def": 70,
-      "speed": 85,
+      "st1": 65,
+      "st2": 125,
+      "st3": 100,
+      "sp.st4": 55,
+      "sp.st5": 70,
+      "st6": 85,
       "total": 500
     },
     "evolution": []
@@ -3693,12 +3693,12 @@
       "Sheer Force"
     ],
     "stats": {
-      "hp": 75,
-      "attack": 100,
-      "defense": 95,
-      "sp.atk": 40,
-      "sp.def": 70,
-      "speed": 110,
+      "st1": 75,
+      "st2": 100,
+      "st3": 95,
+      "sp.st4": 40,
+      "sp.st5": 70,
+      "st6": 110,
       "total": 490
     },
     "evolution": []
@@ -3717,12 +3717,12 @@
       "habilidad14"
     ],
     "stats": {
-      "hp": 20,
-      "attack": 10,
-      "defense": 55,
-      "sp.atk": 15,
-      "sp.def": 20,
-      "speed": 80,
+      "st1": 20,
+      "st2": 10,
+      "st3": 55,
+      "sp.st4": 15,
+      "sp.st5": 20,
+      "st6": 80,
       "total": 200
     },
     "evolution": [
@@ -3746,12 +3746,12 @@
       "Moxie"
     ],
     "stats": {
-      "hp": 95,
-      "attack": 125,
-      "defense": 79,
-      "sp.atk": 60,
-      "sp.def": 100,
-      "speed": 81,
+      "st1": 95,
+      "st2": 125,
+      "st3": 79,
+      "sp.st4": 60,
+      "sp.st5": 100,
+      "st6": 81,
       "total": 540
     },
     "evolution": [
@@ -3776,12 +3776,12 @@
       "Hydration"
     ],
     "stats": {
-      "hp": 130,
-      "attack": 85,
-      "defense": 80,
-      "sp.atk": 85,
-      "sp.def": 95,
-      "speed": 60,
+      "st1": 130,
+      "st2": 85,
+      "st3": 80,
+      "sp.st4": 85,
+      "sp.st5": 95,
+      "st6": 60,
       "total": 535
     },
     "evolution": []
@@ -3800,12 +3800,12 @@
       "Imposter"
     ],
     "stats": {
-      "hp": 48,
-      "attack": 48,
-      "defense": 48,
-      "sp.atk": 48,
-      "sp.def": 48,
-      "speed": 48,
+      "st1": 48,
+      "st2": 48,
+      "st3": 48,
+      "sp.st4": 48,
+      "sp.st5": 48,
+      "st6": 48,
       "total": 288
     },
     "evolution": []
@@ -3825,12 +3825,12 @@
       "Anticipation"
     ],
     "stats": {
-      "hp": 55,
-      "attack": 55,
-      "defense": 50,
-      "sp.atk": 45,
-      "sp.def": 65,
-      "speed": 55,
+      "st1": 55,
+      "st2": 55,
+      "st3": 50,
+      "sp.st4": 45,
+      "sp.st5": 65,
+      "st6": 55,
       "total": 325
     },
     "evolution": [
@@ -3853,12 +3853,12 @@
       "Hydration"
     ],
     "stats": {
-      "hp": 130,
-      "attack": 65,
-      "defense": 60,
-      "sp.atk": 110,
-      "sp.def": 95,
-      "speed": 65,
+      "st1": 130,
+      "st2": 65,
+      "st3": 60,
+      "sp.st4": 110,
+      "sp.st5": 95,
+      "st6": 65,
       "total": 525
     },
     "evolution": [
@@ -3881,12 +3881,12 @@
       "Quick Feet"
     ],
     "stats": {
-      "hp": 65,
-      "attack": 65,
-      "defense": 60,
-      "sp.atk": 110,
-      "sp.def": 95,
-      "speed": 130,
+      "st1": 65,
+      "st2": 65,
+      "st3": 60,
+      "sp.st4": 110,
+      "sp.st5": 95,
+      "st6": 130,
       "total": 525
     },
     "evolution": [
@@ -3909,12 +3909,12 @@
       "Guts"
     ],
     "stats": {
-      "hp": 65,
-      "attack": 130,
-      "defense": 60,
-      "sp.atk": 95,
-      "sp.def": 110,
-      "speed": 65,
+      "st1": 65,
+      "st2": 130,
+      "st3": 60,
+      "sp.st4": 95,
+      "sp.st5": 110,
+      "st6": 65,
       "total": 525
     },
     "evolution": [
@@ -3938,12 +3938,12 @@
       "Analytic"
     ],
     "stats": {
-      "hp": 65,
-      "attack": 60,
-      "defense": 70,
-      "sp.atk": 85,
-      "sp.def": 75,
-      "speed": 40,
+      "st1": 65,
+      "st2": 60,
+      "st3": 70,
+      "sp.st4": 85,
+      "sp.st5": 75,
+      "st6": 40,
       "total": 395
     },
     "evolution": [
@@ -3968,12 +3968,12 @@
       "habilidad11"
     ],
     "stats": {
-      "hp": 35,
-      "attack": 40,
-      "defense": 100,
-      "sp.atk": 90,
-      "sp.def": 55,
-      "speed": 35,
+      "st1": 35,
+      "st2": 40,
+      "st3": 100,
+      "sp.st4": 90,
+      "sp.st5": 55,
+      "st6": 35,
       "total": 355
     },
     "evolution": [
@@ -3998,12 +3998,12 @@
       "habilidad11"
     ],
     "stats": {
-      "hp": 70,
-      "attack": 60,
-      "defense": 125,
-      "sp.atk": 115,
-      "sp.def": 70,
-      "speed": 55,
+      "st1": 70,
+      "st2": 60,
+      "st3": 125,
+      "sp.st4": 115,
+      "sp.st5": 70,
+      "st6": 55,
       "total": 495
     },
     "evolution": [
@@ -4028,12 +4028,12 @@
       "habilidad11"
     ],
     "stats": {
-      "hp": 30,
-      "attack": 80,
-      "defense": 90,
-      "sp.atk": 55,
-      "sp.def": 45,
-      "speed": 55,
+      "st1": 30,
+      "st2": 80,
+      "st3": 90,
+      "sp.st4": 55,
+      "sp.st5": 45,
+      "st6": 55,
       "total": 355
     },
     "evolution": [
@@ -4058,12 +4058,12 @@
       "habilidad11"
     ],
     "stats": {
-      "hp": 60,
-      "attack": 115,
-      "defense": 105,
-      "sp.atk": 65,
-      "sp.def": 70,
-      "speed": 80,
+      "st1": 60,
+      "st2": 115,
+      "st3": 105,
+      "sp.st4": 65,
+      "sp.st5": 70,
+      "st6": 80,
       "total": 495
     },
     "evolution": [
@@ -4088,12 +4088,12 @@
       "Unnerve"
     ],
     "stats": {
-      "hp": 80,
-      "attack": 105,
-      "defense": 65,
-      "sp.atk": 60,
-      "sp.def": 75,
-      "speed": 130,
+      "st1": 80,
+      "st2": 105,
+      "st3": 65,
+      "sp.st4": 60,
+      "sp.st5": 75,
+      "st6": 130,
       "total": 515
     },
     "evolution": []
@@ -4113,12 +4113,12 @@
       "Gluttony"
     ],
     "stats": {
-      "hp": 160,
-      "attack": 110,
-      "defense": 65,
-      "sp.atk": 65,
-      "sp.def": 110,
-      "speed": 30,
+      "st1": 160,
+      "st2": 110,
+      "st3": 65,
+      "sp.st4": 65,
+      "sp.st5": 110,
+      "st6": 30,
       "total": 540
     },
     "evolution": [
@@ -4142,12 +4142,12 @@
       "Snow Cloak"
     ],
     "stats": {
-      "hp": 90,
-      "attack": 85,
-      "defense": 100,
-      "sp.atk": 95,
-      "sp.def": 125,
-      "speed": 85,
+      "st1": 90,
+      "st2": 85,
+      "st3": 100,
+      "sp.st4": 95,
+      "sp.st5": 125,
+      "st6": 85,
       "total": 580
     },
     "evolution": []
@@ -4167,12 +4167,12 @@
       "Lightning Rod"
     ],
     "stats": {
-      "hp": 90,
-      "attack": 90,
-      "defense": 85,
-      "sp.atk": 125,
-      "sp.def": 90,
-      "speed": 100,
+      "st1": 90,
+      "st2": 90,
+      "st3": 85,
+      "sp.st4": 125,
+      "sp.st5": 90,
+      "st6": 100,
       "total": 580
     },
     "evolution": []
@@ -4192,12 +4192,12 @@
       "Flame Body"
     ],
     "stats": {
-      "hp": 90,
-      "attack": 100,
-      "defense": 90,
-      "sp.atk": 125,
-      "sp.def": 85,
-      "speed": 90,
+      "st1": 90,
+      "st2": 100,
+      "st3": 90,
+      "sp.st4": 125,
+      "sp.st5": 85,
+      "st6": 90,
       "total": 580
     },
     "evolution": []
@@ -4216,12 +4216,12 @@
       "Marvel Scale"
     ],
     "stats": {
-      "hp": 41,
-      "attack": 64,
-      "defense": 45,
-      "sp.atk": 50,
-      "sp.def": 50,
-      "speed": 50,
+      "st1": 41,
+      "st2": 64,
+      "st3": 45,
+      "sp.st4": 50,
+      "sp.st5": 50,
+      "st6": 50,
       "total": 300
     },
     "evolution": [
@@ -4244,12 +4244,12 @@
       "Marvel Scale"
     ],
     "stats": {
-      "hp": 61,
-      "attack": 84,
-      "defense": 65,
-      "sp.atk": 70,
-      "sp.def": 70,
-      "speed": 70,
+      "st1": 61,
+      "st2": 84,
+      "st3": 65,
+      "sp.st4": 70,
+      "sp.st5": 70,
+      "st6": 70,
       "total": 420
     },
     "evolution": [
@@ -4273,12 +4273,12 @@
       "Multiscale"
     ],
     "stats": {
-      "hp": 91,
-      "attack": 134,
-      "defense": 95,
-      "sp.atk": 100,
-      "sp.def": 100,
-      "speed": 80,
+      "st1": 91,
+      "st2": 134,
+      "st3": 95,
+      "sp.st4": 100,
+      "sp.st5": 100,
+      "st6": 80,
       "total": 600
     },
     "evolution": [
@@ -4301,12 +4301,12 @@
       "Unnerve"
     ],
     "stats": {
-      "hp": 106,
-      "attack": 110,
-      "defense": 90,
-      "sp.atk": 154,
-      "sp.def": 90,
-      "speed": 130,
+      "st1": 106,
+      "st2": 110,
+      "st3": 90,
+      "sp.st4": 154,
+      "sp.st5": 90,
+      "st6": 130,
       "total": 680
     },
     "evolution": []
@@ -4324,12 +4324,12 @@
       "habilidad24"
     ],
     "stats": {
-      "hp": 100,
-      "attack": 100,
-      "defense": 100,
-      "sp.atk": 100,
-      "sp.def": 100,
-      "speed": 100,
+      "st1": 100,
+      "st2": 100,
+      "st3": 100,
+      "sp.st4": 100,
+      "sp.st5": 100,
+      "st6": 100,
       "total": 600
     },
     "evolution": []
