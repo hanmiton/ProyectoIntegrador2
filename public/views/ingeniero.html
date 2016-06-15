@@ -1,5 +1,13 @@
 <!-- ingeniero -->
-      <div>
+      <div ng-if="!ingeniero">
+        <div class="page-header">
+          <h1>Error</h1>
+        </div>
+        <div class="alert alert-danger">
+          <p>Ingeniero no encontrado</p>
+        </div>
+      </div>
+      <div ng-if="ingeniero">
         <div class="page-header">
           <ingeniero-name></ingeniero-name>
         </div>

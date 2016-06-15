@@ -28,7 +28,7 @@
 
     .controller('IngenieroController', ['$scope', '$routeParams', 'ingenieroService', function ($scope, $routeParams, ingenieroService) {
       var name = $routeParams.name;
-      $scope.ingeniero = {};
+      //$scope.ingeniero = {};
 
       ingenieroService.byName(name)
       .then(function (data) {
