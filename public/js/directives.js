@@ -44,6 +44,13 @@
       };
     })
 
+    .directive('ingenieroCard', function () {
+      return {
+        retrict: 'E',
+        templateUrl: 'partials/ingeniero-card.html'
+      }
+    })
+
      .directive('ingenieroSolicitudes', ['ingenieroService', function (ingenieroService) {
       return {
         restrict: 'E',
