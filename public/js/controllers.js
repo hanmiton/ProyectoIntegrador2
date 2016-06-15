@@ -1,8 +1,9 @@
 (function (_) {
 
   angular.module('ingedex.controllers', [])
-    .controller('IngedexController', ['$scope', '$routeParams', 'ingenieroService', function ($scope, $routeParams, ingenieroService) {
+    .controller('IngedexController', ['$rootScope', '$scope', '$routeParams', 'ingenieroService', function ($rootScope, $scope, $routeParams, ingenieroService) {
       var type = $routeParams.type;
+      $rootScope.title = "";
 
       if (type) {
         $scope.type = type;
@@ -26,12 +27,13 @@
 
     }])
 
-    .controller('IngenieroController', ['$scope', '$routeParams', 'ingenieroService', function ($scope, $routeParams, ingenieroService) {
+    .controller('IngenieroController', ['$rootScope', '$scope', '$routeParams', 'ingenieroService', function ($rootScope, $scope, $routeParams, ingenieroService) {
       var name = $routeParams.name;
       //$scope.ingeniero = {};
 
       ingenieroService.byName(name)
       .then(function (data) {
+         $rootScope.title = data.name;
         $scope.ingeniero = data;
       });
     }])
