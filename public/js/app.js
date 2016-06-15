@@ -15,6 +15,10 @@
         templateUrl: 'views/ingedex.html',
         controller: 'IngedexController'
       })
+       .when('/:type', {
+        templateUrl: 'views/ingedex.html',
+        controller: 'IngedexController'
+      })
       .when('/ingeniero/:name', {
         templateUrl: 'views/ingeniero.html',
         controller: 'IngenieroController',
