@@ -1,7 +1,8 @@
 (function (_) {
 
   angular.module('ingedex.controllers', [])
-    .controller('IngedexController', ['$rootScope', '$scope', '$routeParams', 'ingenieroService', function ($rootScope, $scope, $routeParams, ingenieroService) {
+    .controller('IngedexController', ['$rootScope', '$scope', '$routeParams', 'Ingeniero', function ($rootScope, $scope, $routeParams, Ingeniero) {
+      
       var type = $routeParams.type;
        var ingenieros = [];
 
@@ -10,13 +11,13 @@
       if (type) {
         $scope.type = type;
 
-        ingenieroService.byType(type).then(function (data) {
-          $scope.ingenieros = ingenieros =data;
+        $scope.ingenieros = ingenieros = Ingeniero.query({ type: type.toLowerCase() }, function (data) {
+           
           $scope.groupped = partition(data, 4);
         });
       } else {
-        ingenieroService.all().then(function (data) {
-          $scope.ingenieros = ingenieros =data;
+        $scope.ingenieros = ingenieros = Ingeniero.query(function (data) {
+         
           $scope.groupped = partition(data, 4);
         });
       }
@@ -43,15 +44,14 @@
 
     }])
 
-    .controller('IngenieroController', ['$rootScope', '$scope', '$routeParams', 'ingenieroService', function ($rootScope, $scope, $routeParams, ingenieroService) {
-      var name = $routeParams.name;
+    .controller('IngenieroController', ['$rootScope', '$scope', '$routeParams', 'Ingeniero', function ($rootScope, $scope, $routeParams, Ingeniero) {
+       var name = $routeParams.name;
       //$scope.ingeniero = {};
-
-      ingenieroService.byName(name)
-      .then(function (data) {
-         $rootScope.title = data.name;
-        $scope.ingeniero = data;
-      });
+        Ingeniero.get({ name: name }, function (ingeniero) {
+           $rootScope.title = ingeniero.name;
+          $scope.ingeniero = ingeniero;
+      
+          });
     }])
 
     .controller('TabsController', ['$scope', function ($scope) {
